@@ -1,0 +1,22 @@
+# Anotações :books:
+
+### Autor: Luiz Vinícius Irineu Fonseca
+
+##### 22/04/2022
+
+#### Link para Download do GIT :blue_book:
+
+| https://git-scm.com/downloads |
+| ----------------------------- |
+
+### Comandos Báscios do Git :bookmark_tabs:
+
+
+
+- **git** config. ...
+- **git** init. ...
+- **git** clone. ...
+- **git** add. ...
+- **git** commit. ...
+- **git** branch. ...
+- **git** checkout.
